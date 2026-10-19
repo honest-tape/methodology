@@ -1,0 +1,21 @@
+{
+  "win_rate": 0.4,
+  "win_r": 1.5,
+  "loss_r": -1.0,
+  "expected_r_per_trade": 0.0,
+  "n_trades": 100,
+  "n_sims": 10000,
+  "seed": 20261018,
+  "share_profitable": 0.4661,
+  "share_total_ge_10r": 0.2389,
+  "share_total_ge_20r": 0.0635,
+  "share_total_le_minus_20r": 0.0599,
+  "share_win_rate_ge_45": 0.177,
+  "total_r_p5": -20.0,
+  "total_r_p95": 20.0,
+  "best_total_r": 47.5,
+  "worst_total_r": -40.0,
+  "per_trade_sd_r": 1.224744871391589,
+  "se_mean_100_trades_r": 0.1224744871391589,
+  "trades_needed_for_0_1r_edge_t2": 600
+}
