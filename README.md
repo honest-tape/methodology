@@ -6,7 +6,7 @@
 
 | 檔案 | 內容 |
 | --- | --- |
-| [`methodology.md`](methodology.md) | 測試方法：六個陷阱、三個判決、我哋做唔到嘅嘢 |
+| [`methodology.md`](methodology.md) | 測試方法：七個陷阱、三個判決、我哋做唔到嘅嘢 |
 | [`retest/process.md`](retest/process.md) | 重測系列流程：人手關卡、數據時期、成本、評估、判決門檻 |
 | [`retest/plan_template.md`](retest/plan_template.md) | 每集預先登記模板 |
 | [`retest/series_ledger.md`](retest/series_ledger.md) | 系列帳簿：每個測過嘅策略、變體數、累計試驗數；KO 嘅都唔刪 |
